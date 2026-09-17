@@ -4,7 +4,10 @@ AI-powered job application assistant for [MagangHub](https://maganghub.kemnaker.
 
 Scrapes a MagangHub job post, parses your CV, scores how well you match, and generates a tailored CV + cover letter.
 
-## Features
+## Preview
+
+![MagangHub AI Assistant UI](assets/screenshot.png)
+
 
 - Paste MagangHub job URL → auto-extract title, company, requirements, skills
 - Upload CV PDF → extract experience, projects, skills
