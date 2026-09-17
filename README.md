@@ -1,6 +1,6 @@
 # MagangHub AI Assistant
 
-AI-powered job application assistant for [MagangHub](https://maganghub.id) Indonesia internships.
+AI-powered job application assistant for [MagangHub](https://maganghub.kemnaker.go.id) Indonesia internships.
 
 Scrapes a MagangHub job post, parses your CV, scores how well you match, and generates a tailored CV + cover letter.
 

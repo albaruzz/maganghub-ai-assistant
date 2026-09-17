@@ -48,4 +48,4 @@ def extract_job_text(url_or_text: str) -> str:
 
 def is_maganghub_url(url: str) -> bool:
     """Basic guard to ensure URL looks like a MagangHub page."""
-    return bool(re.search(r"maganghub\.id", url, re.IGNORECASE))
+    return bool(re.search(r"maganghub\.kemnaker\.go\.id", url, re.IGNORECASE))
